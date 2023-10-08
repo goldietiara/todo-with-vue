@@ -2,7 +2,7 @@
 <template>
   <div class="input-wrap">
     <input type="text" />
-    <button>CREATE</button>
+    <button>ADD</button>
   </div>
 </template>
 
