@@ -3,6 +3,7 @@
   <div class="input-wrap">
     <input type="text" />
     <button>ADD</button>
+    <button>ADD</button>
   </div>
 </template>
 
